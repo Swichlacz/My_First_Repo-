@@ -1,6 +1,8 @@
 ###Walt Whitman###
 
-##O Captain! My Captain!##
+##O Captain! My Captain!## 
+
+:ship:
 
 **_Captain! my Captain! our fearful trip is done,_**
 
